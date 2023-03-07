@@ -4,6 +4,7 @@
 
 - I am 23 years old 🎉
 - I am currenty studying archaeology 🦴
+- & computer linguistics 📖
 - I have an bachelor of science in CS 🎓
 - I am interested in video game and graphical programming 🎮
 - I am into low-level and functional programming 📊
