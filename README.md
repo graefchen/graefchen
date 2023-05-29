@@ -9,6 +9,7 @@
 <!-- Old Verison of the used Top Languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10&hide=javascript,typescript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 *The above statistic just shows how much code I have written in languages. not how good I am with them.*
 
 <!--
