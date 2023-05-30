@@ -10,7 +10,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10&hide=javascript,typescript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-*The above statistic just shows how much code I have written in languages. not how good I am with them.*
+*The above statistic just shows how much code I have written in the given languages. Not how good I am with them.*
 
 <!--
 **graefchen/graefchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
