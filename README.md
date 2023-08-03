@@ -4,11 +4,9 @@
 
 - I am 23 years old 🎉
 - I have an bachelor of science in CS 🎓
-- I am currently learning *Haskell*, *C* and *Rust* 📝
+- I am currently studying archaeology and computer linguistics 📝
 
-<!-- Old Verison of the used Top Languages -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10&hide=javascript,typescript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 *The above statistic just shows how much code I have written in the given languages. Not how good I am with them.*
 
