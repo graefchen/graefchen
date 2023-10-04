@@ -2,7 +2,7 @@
 
 ## About me 📝
 
-- I am 23 years old 🎉
+- I am 24 years old 🎉
 - I have an bachelor of science in CS 🎓
 - I am currently studying archaeology and computer linguistics 📝
 
