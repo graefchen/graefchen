@@ -2,13 +2,17 @@
 
 ## About me 📝
 
-- I am 24 years old 🎉
-- I have an bachelor of science in CS 🎓
-- I am currently studying archaeology and computer linguistics 📝
+- 🎉 I’m 24 years old 
+- 🎓 I have an bachelor of science in CS
+- 🦴 I’m currenty studying archaeology
+- 📖 & computer linguistics
+- 🖌 I’m Interested in UI and UX design
+- 🎮 I’m interested in video game and graphical programming
+- 📊 I’m into low-level and functional programming
+- 💪 I prefer statically typed languages
+- 📝 I’m currently learning *CSS* and *Web Design*
+- 🎨 I’m trying to do more *awesome CSS projects*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-*The above statistic just shows how much code I have written in the given languages. Not how good I am with them.*
 
 <!--
 **graefchen/graefchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +26,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
