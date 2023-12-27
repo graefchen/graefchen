@@ -7,9 +7,6 @@
 - 🦴 I’m currenty studying archaeology
 - 📖 & computer linguistics
 - 🖌 I’m Interested in UI and UX design
-- 🎮 I’m interested in video game and graphical programming
-- 📊 I’m into low-level and functional programming
-- 💪 I prefer statically typed languages
 - 📝 I’m currently learning *CSS* and *Web Design*
 - 🎨 I’m trying to do more *awesome CSS projects*
 
