@@ -11,6 +11,7 @@
 - 🎨 I’m trying to do more _awesome CSS projects_
 - 💾 I'm a passionate _Gamer_
 - 📊 I'm currently very interested in _Data Visualisation_
+- ⛓️ & [array programming languages](https://en.wikipedia.org/wiki/Array_programming)
 
 <!--
 **graefchen/graefchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
