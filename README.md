@@ -14,14 +14,17 @@
 - ⛓️ & [array programming languages](https://en.wikipedia.org/wiki/Array_programming)
 
 <figure>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10">
-</a>
-<figcaption>
-<small><i>
-The above statistic just shows how much code I have<br> "written" in the given languages.<br> Not how good I am with them.
-</i></small>
-</figcaption>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10">
+  </a>
+  <figcaption>
+    <br>
+    <small>
+      <i>
+        The above statistic just shows how much code I have<br> "written" in the given languages.<br> Not how good I am with them.
+      </i>
+    </small>
+  </figcaption>
 </figure>
 
 <!--
