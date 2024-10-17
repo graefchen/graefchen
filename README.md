@@ -15,7 +15,7 @@
 
 <figure>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=pie">
   </a>
   <figcaption>
     <br>
