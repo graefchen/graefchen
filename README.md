@@ -1,6 +1,8 @@
-<small align="center">
-  ~~ I make websites ~~
-</small>
+<div align="center">
+  <small>
+    ~~ I make websites ~~
+  </small>
+</div>
 
 <!--
 **graefchen/graefchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
