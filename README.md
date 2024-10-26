@@ -1,7 +1,9 @@
 <div align="center">
-  <small>
-    ~~ I make websites ~~
-  </small>
+  <i>
+    <small>
+      ~~ i like making websites ~~
+    </small>
+  </i>
 </div>
 
 <!--
