@@ -1,7 +1,7 @@
 <div align="center">
   <i>
     <small>
-      ~~ i like making websites ~~
+      ~~ i like making websites & hacking together code ~~
     </small>
   </i>
 </div>
