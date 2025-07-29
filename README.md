@@ -5,7 +5,7 @@
 - 🎉 I’m 25 years old
 - 🖌️ I’m interested in UI and UX design
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graefchen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 _The above statistic just shows how much code I have written in the given languages. Not how good I am with them._
 
