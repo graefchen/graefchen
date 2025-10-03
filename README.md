@@ -2,8 +2,9 @@
 
 ## About me 📝
 
-- 🎉 I’m 25 years old
+- 🎉 I’m 26 years old
 - 🖌️ I’m interested in UI and UX design
+- 🎮 I'm a big video game fan (Especially Pokémon Black & White)
 
 <!--
 **graefchen/graefchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
